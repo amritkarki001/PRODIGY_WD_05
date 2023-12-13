@@ -103,7 +103,7 @@ body {
 .error {
     display: none;
     /* Hide error message initially */
-    color: red;
+    color: rgb(255, 255, 255);
     margin-top: 10px;
 }
 
