@@ -31,7 +31,6 @@ async function checkWeather(city) {
         } else if (data.weather[0].main == "Mist") {
             weatherIcon.src = "images/mist.png";
         }
-
         weatherContainer.style.display = "block";
         errorContainer.style.display = "none";
     }
