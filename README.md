@@ -1,10 +1,9 @@
-PRODIGY_WD_05
-#PRODIGY_WD_02
+#PRODIGY_WD_05
+
 # Weather App
 A simple Web WeatherApp developed by [Amrit Karki](https://www.linkedin.com/in/amritkarkii001/).
 
 ## Project Information
-
 - **Project Owner:** Amrit Karki
 - **Project Submission:** Submitted to Prodigy Info Tech
 - **Role:** Web Development Intern
@@ -12,11 +11,9 @@ A simple Web WeatherApp developed by [Amrit Karki](https://www.linkedin.com/in/a
   Unauthorized copying or reproduction of this file without permission  is prohibited.
 
 ## Description
-
 This project is a web-based Weather-App . It allows users to Fetch the information about weather.
 
 ## Technologies Used
-
 - HTML
 - CSS
 - JavaScript
