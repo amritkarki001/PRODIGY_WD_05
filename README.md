@@ -7,7 +7,7 @@ A simple Web WeatherApp developed by [Amrit Karki](https://www.linkedin.com/in/a
 - **Project Owner:** Amrit Karki
 - **Project Submission:** Submitted to Prodigy Info Tech
 - **Role:** Web Development Intern
-- **Copyright:** © 2023 Amrit Karki. All Rights Reserved.
+- **Copyright:** ©2023 Amrit K. All Rights Reserved.
   Unauthorized copying or reproduction of this file without permission  is prohibited.
 
 ## Description
